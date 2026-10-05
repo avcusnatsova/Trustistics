@@ -2,7 +2,6 @@
 
 > A cold-chain provenance platform that combines IoT telemetry, cryptographic verification, and blockchain technology to improve the integrity and traceability of temperature-sensitive shipments.
 
-![Trustistics Banner](https://github.com/avcusnatsova/Trustistics/raw/main/trustistics_banner_v2_1777534273700.png)
 
 ---
 
